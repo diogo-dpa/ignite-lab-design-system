@@ -1,4 +1,4 @@
-# Ignite Lab - Design System - 0utubro/2022
+# Ignite Lab - Design System - Outubro/2022
 
 ## ⭐ O Evento
 
